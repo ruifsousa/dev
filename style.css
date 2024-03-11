@@ -65,6 +65,7 @@ li.nav-link{
 .content{
     display: flex;
     width: 100%;
+    margin-bottom: 28px;
 }
 
 .main{
@@ -102,12 +103,11 @@ button:hover{
 
 .image-wrapper{
     display: flex;
-    margin-top: 5vh;
     position: relative;
 }
 
 .image-wrapper img{
-    max-width: 500px;
+    max-width: 400px;
 }
 
 .attrebute{
